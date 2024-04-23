@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="Калибровка">Калибровка</string>
+    <string name="Умная">Умная штора</string>
+    <string name="Закрыть">Закрыть штору</string>
+    <string name="Открыть">Открыть штору</string>
+    <string name="Температура">Обновить данные о температуре</string>
+    <string name="Освященность">Обновить данные освященности</string>
+</resources>
